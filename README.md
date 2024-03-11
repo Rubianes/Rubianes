@@ -1,7 +1,7 @@
 
 ### Sales Manufacture - Dashboard
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMDYwYjUxMWEtZjRiNS00OWU0LWIzZGEtN2ViYzg2ODE5ZmE0IiwidCI6IjAwZGU3YzQxLWQxOTMtNDhjMC05MmE5LTM3NWVhMGRmM2ZiZCJ9
-##Problem statement
+### Problem statement
 This dashboard helps the company understand the sales process better. It helps the managers track the sales and how they can improve it in some areas that have been affected. The dashboard will let them know how different factors have affected sales during a period.
 ### Steps followed:
 This project will work with 5 tables that contain data to start creating insights with indicators for
